@@ -2278,27 +2278,6 @@ body {
     width: 100% !important;
   }
 }
-.cid-qCbLDue8nC {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: #000000;
-}
-.cid-qCbLDue8nC .image-block {
-  margin: auto;
-}
-.cid-qCbLDue8nC figcaption {
-  position: relative;
-}
-.cid-qCbLDue8nC figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qCbLDue8nC .image-block {
-    width: 100% !important;
-  }
-}
 .cid-qASogo8YVD .navbar {
   padding: .5rem 0;
   background: #333333;
